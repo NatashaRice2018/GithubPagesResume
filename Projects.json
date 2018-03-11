@@ -1,0 +1,20 @@
+[
+    {
+    "Title" : "Lab 1",
+    "Repo" : "https://github.com/NatashaRice2018/it202spr2018",
+    "Link" : "https://natasharice2018.github.io/it202spr2018/labs/lab1/",
+    "Summary" : "This page shows my ability to manipulate the google maps API as well as customize an existing template"
+    },
+    {
+    "Title" : "Lab 2",
+    "Repo" : "https://github.com/NatashaRice2018/it202spr2018",
+    "Link" : "https://natasharice2018.github.io/it202spr2018/labs/lab2/",
+    "Summary" : "Simple web application with 3 pages that uitilizes a JSON Query"
+    },
+    {
+    "Title" : "Proj 2",
+    "Repo" : "https://github.com/NatashaRice2018/it202spr2018",
+    "Link" : "https://natasharice2018.github.io/it202spr2018/projects/p2/index.html",
+    "Summary" : "Simple web application with 3 pages that uitilizes a JSON Query and the google maps API"
+    }
+]
