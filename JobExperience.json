@@ -1,0 +1,14 @@
+[
+    {
+    "Title" : "Software Engineering Intern II",
+    "Company" : "Lockheed Martin",
+    "Dates" : "May 2017 - Current",
+    "Summary": "Utilizing The Agile Kanban Methodology I contributed to a PREPAR3D Flight Simulator for the F-35. During this summer I completed tickets for more advanced actions and attributes and bug fixes and contributed to the creation of new features. I am currently contributing to this project on a part-time basis remotely."
+    },
+    {
+    "Title" : "Software Engineering Intern I",
+    "Company" : "Lockheed Martin",
+    "Dates" : "May 2016 - August 2016",
+    "Summary": "Utilizing The Agile Scrum Methodology I contributed to a PREPAR3D Flight Simulator for the F-35. During this summer I completed tickets for simple actions and attributes and bug fixes. "
+    } 
+]
